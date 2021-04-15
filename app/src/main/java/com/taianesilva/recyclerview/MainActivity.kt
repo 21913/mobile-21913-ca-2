@@ -3,7 +3,7 @@ package com.taianesilva.recyclerview
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.android.kotlinyoutubelbta.MainAdapter
+import com.android.taianesilva.recyclerview.MainAdapter
 import com.google.gson.GsonBuilder
 import kotlinx.android.synthetic.main.activity_main.*
 import okhttp3.*
